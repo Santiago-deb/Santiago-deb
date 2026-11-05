@@ -5,5 +5,5 @@
 <p>
   <a href="https://santiagosantillan.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boton-portfolio-oscuro.svg?v=bfed9943"><img alt="Ver portfolio" src="assets/boton-portfolio-claro.svg?v=6ad23f8c" height="46"></picture></a>
   &nbsp;
-  <a href="mailto:ssantillan@alumnos.exa.unicen.edu.ar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boton-correo-oscuro.svg?v=e23e6341"><img alt="Escribirme" src="assets/boton-correo-claro.svg?v=25e384ed" height="46"></picture></a>
+  <a href="mailto:ssantillan@alumnos.exa.unicen.edu.ar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boton-correo-oscuro.svg?v=0000c314"><img alt="Escribime" src="assets/boton-correo-claro.svg?v=3fd18a4e" height="46"></picture></a>
 </p>
